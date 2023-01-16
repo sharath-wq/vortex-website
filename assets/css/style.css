@@ -2028,7 +2028,7 @@ hr {
 }
 @media (max-width: 575px) {
   .header-area .main-header {
-    padding: 22px 14px;
+    padding: 5px 14px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
